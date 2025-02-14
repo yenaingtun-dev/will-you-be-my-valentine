@@ -4,7 +4,7 @@ import AudioPlayer from 'react-h5-audio-player';
 
 
 const Page = () => {
-    const [name, setName] = useState('Su Thit');
+    const [name, setName] = useState('Phoo Phoo');
     const [yesButtonClicked, setYesButtonClicked] = useState(false);
     const [yesButtonFontSize, setYesButtonFontSize] = useState(0)
     const [noTextIdx, setNoTextIdx] = useState(0)
